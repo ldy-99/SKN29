@@ -1,4 +1,5 @@
 .env
 1.py
-data_anal/Data
+데이터분석/Data
 .cph
+.vscode
